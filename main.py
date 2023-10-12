@@ -43,7 +43,7 @@ def numtoname(num):
         name="Eighteen "
     if num==19:
         name="Nineteen "
-    if num==20:
+    if num==20 or num=="2":
         name="Twenty "
     if num=="3":
         name="Thirtry "
